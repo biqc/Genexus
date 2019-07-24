@@ -4,7 +4,7 @@
 
 # CheatSheet do GeneXus
 ## [Transactionções]
-* As rrepresentações de oOjetos / S / Situações daRealdade * da Base de Dados de Dados de Dados da Base de Dados, JA que oBBanco de dDados NAS bases NAS Transações e seus outros rRacionamentos * PODEM Codem Conter mMais de hum level * o hum Base * Atributos Possibilidade de definir como Fórmulas em seus atributos SEUS ### GIK * Padrão de nomenclatura dos atributos (ex: Classe + + Atributo -> ClienteNome)
+* As rrepresentações de oOjetos / S / Situações daRealdade * da Base de Dados de Dados de Dados da Base de Dados, JA que oBBanco de dDados NAS bases NAS Transações e seus outros rRacionamentos * PODEM Codem Conter mMais de hum level * o hum Base * Atributos Possibilidade de definir as Fórmulas em seus atributos SEUS ### GIK * Padrão de nomenclatura dos atributos (ex: Classe + + Atributo -> ClienteNome)
 
 
 
@@ -16,7 +16,7 @@
 
 
 ## [Ssubtypeipos]
-* Baseados em Atributos baseados em oOutros aAtributos * Usados ​​para ESPECIFICAR uma utilização de certos aAtributos * Corrigir * duplicatas Corrigir * ex: ~~ ClienteIDd e ClienteIDd ~~ ** X ** X **                                                                                                                                                                                                                                            ClienteResponsávelID e ClienteAuxiliarID ** & # & # 10004; **                                                                                                                      ^                                                                                                      **                                                                                                                                                                                                   ^                                                                                                                                                                                                                                           **                                                                                                                      Ambos subtipos de ClienteID **                                                                                 ^ ^                                              
+* Baseados em Atributos baseados em oOutros aAtributos * Usados ​​para ESPECIFICAR uma utilização de certos aAtributos * Corrigir * duplicatas Corrigir * ex: ~~ ClienteIDd e ClienteIDd ~~ ** X ** X **                                                                                                                                                                                                                                                                 ClienteResponsávelID e ClienteAuxiliarID ** & # & # 10004; **                                                                                                                                           ^                                                                                                                               **                                                                                                                                                                                                                            ^                                                                                                                                                                                                                                                                    **                                                                                                                      Ambos subtipos de ClienteID **                                                                                                         ^ ^                                              
 
 
  
@@ -171,5 +171,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDI2Mzg0Nl19
+eyJoaXN0b3J5IjpbLTEzNjYwMDEyMjRdfQ==
 -->
