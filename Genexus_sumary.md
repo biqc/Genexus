@@ -16,7 +16,7 @@
 
 
 ## [Ssubtypeipos]
-* Baseados em Atributos baseados em oOutros aAtributos * Usados ​​para ESPECIFICAR uma utilização de certos aAtributos * Corrigir * duplicatas Corrigir * ex: ~~ ClienteIDd e ClienteIDd ~~ ** X ** X **                                                                                                                                                                                                                                                ClienteResponsávelID e ClienteAuxiliarID ** & # & # 10004; **                                                                                                                          ^                                                                                                          **                                                                                                                                                                                                       ^                                                                                                                                                                                                                                               **                                                                                                                      Ambos subtipos de ClienteID **                                                                                     ^ ^                                              
+* Baseados em Atributos baseados em oOutros aAtributos * Usados ​​para ESPECIFICAR uma utilização de certos aAtributos * Corrigir * duplicatas Corrigir * ex: ~~ ClienteIDd e ClienteIDd ~~ ** X ** X **                                                                                                                                                                                                                                                                      ClienteResponsávelID e ClienteAuxiliarID ** & # & # 10004; **                                                                                                                                                ^                                                                                                                                    **                                                                                                                                                                                                                                 ^                                                                                                                                                                                                                                                                         **                                                                                                                      Ambos subtipos de ClienteID **                                                                                                               ^ ^                                              
 
 
  
@@ -171,6 +171,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTQxMjA0MiwxMTI5NzYwOTIsLTIwNT
-g3NTU4NzksLTg4MDk5OTI5MSwtMTE3NDc5MDk1NF19
+eyJoaXN0b3J5IjpbODM1MzkxNDk4LDExMjk3NjA5MiwtMjA1OD
+c1NTg3OSwtODgwOTk5MjkxLC0xMTc0NzkwOTU0XX0=
 -->
