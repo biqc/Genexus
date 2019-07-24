@@ -1,4 +1,4 @@
-# Deu certo?
+# Deu certo? Deu
 
 # Genexus CheatSheet
 ## [Transactions]
@@ -150,5 +150,6 @@
 * Enums
 * Expressões regulares
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDk5OTI5MSwtMTE3NDc5MDk1NF19
+eyJoaXN0b3J5IjpbLTIwNTg3NTU4NzksLTg4MDk5OTI5MSwtMT
+E3NDc5MDk1NF19
 -->
