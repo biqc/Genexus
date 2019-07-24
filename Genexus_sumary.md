@@ -1,20 +1,32 @@
 # Deu certo? Deu. Vai Joel!
 
-# Genexus CheatSheet
-## [Transactions]
-* São representações de objetos/situações da realidade
-* Base da KB, já que todo o banco de dados é baseado nas transações e seus relacionamentos
-* Podem conter mais de um nível
-* Possível definir fórmulas em seus atributos
-	### GIK
-	* Padrão de nomenclatura dos atributos (ex: Classe+Atributo -> ClienteNome)
-## [Subtypes]
-* Atributos baseados em outros atributos
-* Usados para especificar a utilização de certos atributos
-* Corrigir duplicatas
-* ex: ~~ClienteID e ClienteID~~ **X**
-  ClienteResponsávelID e ClienteAuxiliarID **&#10004;**
-             ^  **Ambos subtipos de ClienteID**  ^
+# Genexus CheatSheet Está bem
+
+# CheatSheet do GeneXus
+## [Transactionções]
+* São rRepresentações de oObjetos/s / Situações da rRealidade
+ * Base da KB, já qe Dados de Dados de Dados da Base de Dados, JA Que tTodo o bBanco de dDados é baseado nas te Base NAS Transações e seuSEUs rRelacionamentos
+ * Podem cODEM Conter mMais de um nível
+*o hum Base * Atributos Possível dis Definir fFórmulas em seus atributos
+	SEUS ## # GIK
+	 	                                                                                                              * Padrão de nomenclatura dos atributos (ex: Classe+ + Atributo -> ClienteNome)
+
+
+
+
+
+## [Ssubtypeipos]
+* Baseados Atributos baseados em oOutros aAtributos
+ * Usados para especificarESPECIFICAR a utilização de certos aAtributos
+* Corrigir * duplicatas
+ Corrigir * ex: ~~ ClienteIDd e ClienteIDd ~~ **X**
+ X **                                                                                                                                   ClienteResponsávelID e ClienteAuxiliarID **&# & # 10004; **
+             ^  **                                                                                                                                              ^                                                                                                                                   **              Ambos subtipos de ClienteID **  ^                                                                                                               ^ 
+
+
+ 
+
+
 ## [Formula]
 * Atributos calculados através de funções ou expressões lógicas
 * Não são persistidos no banco de dados
@@ -138,18 +150,27 @@
 
  BPMN, microservices, api, rest
  GAM - genexus auth.. manager
-			 - Várias kb podem usar do mesmo gam
-			 - o gam em comum é a base de dados gerada e só precisa ser configurada
+			renciador de autenticação de genexus - Váriaos kb pode			 kb também usar dm o mesmo gam
+ 			 - o gam em comumnjunto é uma base de dados gerada e só precisa ser configurada
+
+
+
 
 ### Boas Práticas
 * Gik
-* Usar domínios
-* (domínio, módulo) -> Ocorre quando o domínio só existe dentro do módulo
-* Todos os atributos podem receber nulo e a regra deve ser definida no sistema, não no db
-* Exclusão lógica
-* Enums
-* Expressões regulares
+ * Usar domínios
+ * (domínio, módulo) -> Ocorre quando o domínio sóa regra existe dentro do módulo
+ * Todos os atributos podem receber nulo e a regra deve ser definida noser considerados como um todo e um sistema sem sistema, não noé db
+ * Exclusão lógica
+ * Enums
+ * Expressões regulares
+
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTc2MDkyLC0yMDU4NzU1ODc5LC04OD
-A5OTkyOTEsLTExNzQ3OTA5NTRdfQ==
+eyJoaXN0b3J5IjpbNzkwNTIwMjc4LDExMjk3NjA5MiwtMjA1OD
+c1NTg3OSwtODgwOTk5MjkxLC0xMTc0NzkwOTU0XX0=
 -->
