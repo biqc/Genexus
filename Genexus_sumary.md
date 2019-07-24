@@ -1,40 +1,40 @@
 # Deu certo? Deu. Vai Joel!
 
-# Genexus CheatSheet Está bem
+# CheatSheet do Genexus Está bem
 
 # CheatSheet do GeneXus
 ## [Transactionções]
-* São rRepresentações de oObjetos/s / Situações da rRealidade
- * Base da KB, já qe Dados de Dados de Dados da Base de Dados, JA Que tTodo o bBanco de dDados é baseado nas te Base NAS Transações e seuSEUs rRelacionamentos
- * Podem cODEM Conter mMais de um nível
-*o hum Base * Atributos Possível dis Definir fFórmulas em seus atributos
-	SEUS ## # GIK
-	 	                                                                                                              * Padrão de nomenclatura dos atributos (ex: Classe+ + Atributo -> ClienteNome)
+* As rrepresentações de oOjetos / S / Situações daRealdade * da Base de Dados de Dados de Dados da Base de Dados, JA que oBBanco de dDados NAS bases NAS Transações e seus outros rRacionamentos * PODEM Codem Conter mMais de hum level * o hum Base * Atributos Possibilidade de definir as Fórmulas em seus atributos SEUS ### GIK * Padrão de nomenclatura dos atributos (ex: Classe + + Atributo -> ClienteNome)
+
+
+
+
+
 
 
 
 
 
 ## [Ssubtypeipos]
-* Baseados Atributos baseados em oOutros aAtributos
- * Usados para especificarESPECIFICAR a utilização de certos aAtributos
-* Corrigir * duplicatas
- Corrigir * ex: ~~ ClienteIDd e ClienteIDd ~~ **X**
- X **                                                                                                                                   ClienteResponsávelID e ClienteAuxiliarID **&# & # 10004; **
-             ^  **                                                                                                                                              ^                                                                                                                                   **              Ambos subtipos de ClienteID **  ^                                                                                                               ^ 
+* Baseados em Atributos baseados em oOutros aAtributos * Usados ​​para ESPECIFICAR uma utilização de certos aAtributos * Corrigir * duplicatas Corrigir * ex: ~~ ClienteIDd e ClienteIDd ~~ ** X ** X **                                                                                                                                                                                                                                                ClienteResponsávelID e ClienteAuxiliarID ** & # & # 10004; **                                                                                                                          ^                                                                                                          **                                                                                                                                                                                                       ^                                                                                                                                                                                                                                               **                                                                                                                      Ambos subtipos de ClienteID **                                                                                     ^ ^                                              
+
+
+ 
+
+
 
 
  
 
 
 ## [Formula]
-* Atributos calculados através de funções ou expressões lógicas
-* Não são persistidos no banco de dados
-  ### Global
-  * Aplicado para todos as ocasiões
-  ### Inline
-  * Existe em parte específica de um objeto e é utilizado quando chamada
-## [Rules]
+* Atributos calculados atraves de funcoes OU expressões lógicas * persistentes NAO Énosso Banco de Dados ### global                                                         * Aplicado para todos os casos em ### em linha *
+
+
+
+
+
+## [Regras]
 * Definem as regras de determinado objeto e seus componentes
 * Onde especificam comportamentos e verificações em determinadas circunstâncias.
 * _Error, Msg, Alert, noAccept, Add, Default, etc._
@@ -171,6 +171,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwNTIwMjc4LDExMjk3NjA5MiwtMjA1OD
-c1NTg3OSwtODgwOTk5MjkxLC0xMTc0NzkwOTU0XX0=
+eyJoaXN0b3J5IjpbMTg0NTQxMjA0MiwxMTI5NzYwOTIsLTIwNT
+g3NTU4NzksLTg4MDk5OTI5MSwtMTE3NDc5MDk1NF19
 -->
