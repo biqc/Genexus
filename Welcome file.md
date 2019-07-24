@@ -1,25 +1,25 @@
 # Bem-vindo ao StackEdit!
 
-Oi! O seu primeiro arquivo Markdown no ** StackEdit ** . Você pode aprender sobre StackEdit, você pode me ler. Se você quiser jogar com o Markdown, você pode me editar. DEPOIS de Terminar Comigo, rápido Você PODE CRIAR Novos Arquivos Abrindo o ** explorador de Arquivos ** não Canto esquerdo da barra de Navegação.
+Oi! O primeiro arquivo Markdown não ** StackEdit ** . Você pode aprender sobre StackEdit, você pode me ler. Se você quiser jogar com o Markdown, você pode me editar. DEPOIS de Terminar Comigo, rápido Você PODE CRIAR Novos Arquivos Abrindo o ** Gerenciador de Arquivos ** Não Canto da Barra de Navegação.
 
 
 # Arquivos
 
-O StackEditar arquivos seus arquivos em seu navegador, o que significa que todos os seus arquivos são salvos automaticamente locais e permanecer agentes ** offline! **
+As StackEditar as un archive são arquivos em seu navegador, o que significa que todos os seus arquivos são salvos em locais e quarentros agentes ** offline! **
 
 ## Criar arquivos e massas
 
-O explorador de arquivos é acessível usando o botão no canto esquerdo da barra de navegação. Você pode criar um novo arquivo clicando no botão ** Novo arquivo ** no gerenciador de arquivos. Você também pode criar pastas clicando no botão ** Nova pasta ** .
+O explorador de arquivos é feito usando o botão no canto esquerdo da barra de navegação. Você pode criar um novo arquivo clicando no botão ** Novo arquivo ** no gerenciador de arquivos. Você também pode criar pastas clicando no botão ** Nova massa ** .
 
 ## Muda para outro arquivo
 
-Todos os seus arquivos e pastas são apresentados como uma árvore no gerenciador de arquivos. Você pode alternar de um para outro clicando em um arquivo na árvore.
+Todos os seus arquivos e pastas são apresentados como uma árvore não gerenciadora de arquivos. Você pode alternar de um para outro clicando em um arquivo na árvore.
 
 ## Renomear um arquivo
 
-Você pode renomear o arquivo atual clicando no nome do arquivo na barra de navegação ou clicando no botão ** Renomear ** no gerenciador de arquivos.
+Você pode renomear o seu atual arquivo clicando no botão do arquivo na barra de navegação ou clicando no botão ** Renomear ** no gerenciador de arquivos.
 
-## Excluir um arquivo
+## Excluir hum Arquivo
 
 You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
@@ -142,5 +142,5 @@ B -> D {losango}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODExNzM1OV19
+eyJoaXN0b3J5IjpbLTcxMTI2MDAxOV19
 -->
