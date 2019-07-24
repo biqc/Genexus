@@ -1,28 +1,40 @@
-# Deu certo? Deu. Vai Joel! Está bem
+# Deu certo? Deu. Vai Joel!
+
+# CheatSheet do Genexus Está bem
 
 # CheatSheet do GeneXus
-## [Transações]
-* São Representações de Objetos / Situações da Realidade * Base de Dados de Dados de Dados da Base de Dados, JA Que Todo o Banco de Dados e Base NAS Transações e SEUs Relacionamentos * PODEM Conter Mais do hum Base * Atributos Possíveis Definir Fórmulas em SEUS ## # GIK 	                                                                                                       * Padrão de nomenclatura dos atributos (ex: Classe + Atributo -> ClienteNome)
+## [Transactionções]
+* As rrepresentações de oOjetos / S / Situações daRealdade * da Base de Dados de Dados de Dados da Base de Dados, JA que oBBanco de dDados NAS bases NAS Transações e seus outros rRacionamentos * PODEM Codem Conter mMais de hum level * o hum Base * Atributos Possibilidade de definir como Fórmulas em seus atributos SEUS ### GIK * Padrão de nomenclatura dos atributos (ex: Classe + + Atributo -> ClienteNome)
 
 
 
 
 
-## [subtipos]
-* Baseados Atributos em Outros Atributos * Usado para ESPECIFICAR a utilização de certos Atributos * duplicatas Corrigir * ex: ~~ ClienteId e ClienteId ~~ ** X **                                                                                                                            ClienteResponsávelID e ClienteAuxiliarID ** & # 10004; **                                                                                                                                       ^                                                                                                                            **       Ambos subtipos de ClienteID **                                                                                                                 ^ 
+
+
+
+
+
+## [Ssubtypeipos]
+* Baseados em Atributos baseados em oOutros aAtributos * Usados ​​para ESPECIFICAR uma utilização de certos aAtributos * Corrigir * duplicatas Corrigir * ex: ~~ ClienteIDd e ClienteIDd ~~ ** X ** X **                                                                                                                                                                                                                                            ClienteResponsávelID e ClienteAuxiliarID ** & # & # 10004; **                                                                                                                      ^                                                                                                      **                                                                                                                                                                                                   ^                                                                                                                                                                                                                                           **                                                                                                                      Ambos subtipos de ClienteID **                                                                                 ^ ^                                              
+
+
+ 
+
+
 
 
  
 
 
 ## [Formula]
-* Atributos calculados através de funções ou expressões lógicas
-* Não são persistidos no banco de dados
-  ### Global
-  * Aplicado para todos as ocasiões
-  ### Inline
-  * Existe em parte específica de um objeto e é utilizado quando chamada
-## [Rules]
+* Atributos calculados atraves de funcoes OU expressões lógicas * persistentes NAO Énosso Banco de Dados ### global                                                         * Aplicado para todos os casos em ### em linha *
+
+
+
+
+
+## [Regras]
 * Definem as regras de determinado objeto e seus componentes
 * Onde especificam comportamentos e verificações em determinadas circunstâncias.
 * _Error, Msg, Alert, noAccept, Add, Default, etc._
@@ -136,13 +148,22 @@
 ## VASP
 * Verbo, adjetivo, substantivo e predicado
 
-BPMN, microservices, api, rest GAM - gerenciador de autenticação de genexus - Vários 			 kb também usam o mesmo gam 			 - o em conjunto é uma base de dados gerada e só precisa ser configurada
+ BPMN, microservices, api, rest
+ GAM - genexus auth.. manager
+			renciador de autenticação de genexus - Váriaos kb pode			 kb também usar dm o mesmo gam
+ 			 - o gam em comumnjunto é uma base de dados gerada e só precisa ser configurada
 
 
 
 
 ### Boas Práticas
-* Gik * Usar domínios * (domínio, módulo) -> Ocorre quando a regra existe dentro do módulo * Todos os atributos podem ser considerados como um todo e um sistema sem sistema, não é db * Exclusão lógica * Enums * Expressões regulares
+* Gik
+ * Usar domínios
+ * (domínio, módulo) -> Ocorre quando o domínio sóa regra existe dentro do módulo
+ * Todos os atributos podem receber nulo e a regra deve ser definida noser considerados como um todo e um sistema sem sistema, não noé db
+ * Exclusão lógica
+ * Enums
+ * Expressões regulares
 
 
 
@@ -150,5 +171,5 @@ BPMN, microservices, api, rest GAM - gerenciador de autenticação de genexus - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzNDAzNTY1XX0=
+eyJoaXN0b3J5IjpbMTQ0MDI2Mzg0Nl19
 -->
